@@ -1,0 +1,7 @@
+独立测试数据：
+- 方便修改
+- 方便共享
+- 方便环境切换/多环境共用
+
+测试用例 = 页面对象 + 测试数据
+TestCases = PageLocators/PageObjects + TestDatas
